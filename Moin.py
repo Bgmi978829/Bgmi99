@@ -12,9 +12,9 @@ db = client['TEST']
 users_collection = db['PAID']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7542386978:AAEfkK12qlBcq7nLjI1YMbSAS8tpvC0FUtw'
-ADMIN_USER_ID = 7209762563 # Replace with your admin user ID
-ADMIN_USERNAME = 'MoinOwner'  # Replace with your admin's Telegram username (without @)
+TELEGRAM_BOT_TOKEN = '7563952518:AAHlX0T5IJ0AtoFIye3L_Kvtp7c9oaenM8U'
+ADMIN_USER_ID = 7303380062 # Replace with your admin user ID
+ADMIN_USERNAME = 'Vip_Ddos_07'  # Replace with your admin's Telegram username (without @)
 
 # Customizable messages
 OWNER_NAME = '@Vip_Ddos_07'  # Change this to the owner's name
